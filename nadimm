@@ -1,4 +1,8 @@
 vdnmvdsnbdsvn
 klmn
 testing the dev branch
-testing what happens to master  will see
+<<<<<<< HEAD
+testing what happens to master
+=======
+this gonna cause trouble  
+>>>>>>> verybad
